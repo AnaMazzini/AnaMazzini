@@ -1,4 +1,5 @@
-## Hi there 👋
+## Olá, olá!
+Só uma conta de estudante do Alura :)
 
 <!--
 **AnaMazzini/AnaMazzini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
