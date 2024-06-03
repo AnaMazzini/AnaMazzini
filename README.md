@@ -1,5 +1,7 @@
 ## Bem-vindo a minha conta.
 Meu nome é Ana Beatriz e essa só uma conta de estudante do Alura :)
+
+
 ![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/dcaqp9c-72d98018-5aa2-4de0-9dcf-fddf1b9b9622.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGNhcXA5Yy03MmQ5ODAxOC01YWEyLTRkZTAtOWRjZi1mZGRmMWI5Yjk2MjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hg2AxROJWs82t87vjZHY8jl0v8XGkUWs4tc3neOuJ4A)
 
 
